@@ -34,15 +34,9 @@ CRF-based PII scrubbing → channel-aware preprocessing → BiLSTM multi-label c
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubreadmestatsfast.vercel.app/api?username=equinox013&show_icons=true&hide_border=true&count_private=true&hide=prs&bg_color=1C1C1A&title_color=F5F0E8&text_color=F5F0E8&icon_color=F5F0E8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://githubreadmestatsfast.vercel.app/api?username=equinox013&show_icons=true&hide_border=true&count_private=true&hide=prs&bg_color=F5F0E8&title_color=1C1C1A&text_color=1C1C1A&icon_color=1C1C1A" />
-    <img height="160" src="https://githubreadmestatsfast.vercel.app/api?username=equinox013&show_icons=true&hide_border=true&count_private=true&hide=prs&bg_color=F5F0E8&title_color=1C1C1A&text_color=1C1C1A&icon_color=1C1C1A" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=equinox013&layout=compact&hide_border=true&langs_count=6&bg_color=1C1C1A&title_color=F5F0E8&text_color=F5F0E8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=equinox013&layout=compact&hide_border=true&langs_count=6&bg_color=F5F0E8&title_color=1C1C1A&text_color=1C1C1A" />
-    <img height="160" src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=equinox013&layout=compact&hide_border=true&langs_count=6&bg_color=F5F0E8&title_color=1C1C1A&text_color=1C1C1A" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=equinox013&layout=compact&hide_border=true&langs_count=6&bg_color=1C1C1A&title_color=F5F0E8&text_color=F5F0E8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=equinox013&layout=compact&hide_border=true&langs_count=6&bg_color=F5F0E8&title_color=1C1C1A&text_color=1C1C1A" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=equinox013&layout=compact&hide_border=true&langs_count=6&bg_color=F5F0E8&title_color=1C1C1A&text_color=1C1C1A" />
   </picture>
 </p>
 
