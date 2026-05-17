@@ -32,20 +32,19 @@ CRF-based PII scrubbing → channel-aware preprocessing → BiLSTM multi-label c
 
 ### by the numbers
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=equinox013&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=prs&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=equinox013&show_icons=true&hide_border=true&count_private=true&theme=default&hide=prs" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=equinox013&show_icons=true&hide_border=true&count_private=true&theme=default&hide=prs" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=equinox013&layout=compact&hide_border=true&theme=dark&langs_count=6&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=equinox013&layout=compact&hide_border=true&theme=default&langs_count=6" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=equinox013&layout=compact&hide_border=true&theme=default&langs_count=6" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=equinox013&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=prs&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=equinox013&show_icons=true&hide_border=true&count_private=true&theme=default&hide=prs" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=equinox013&show_icons=true&hide_border=true&count_private=true&theme=default&hide=prs" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=equinox013&layout=compact&hide_border=true&theme=dark&langs_count=6&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=equinox013&layout=compact&hide_border=true&theme=default&langs_count=6" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=equinox013&layout=compact&hide_border=true&theme=default&langs_count=6" />
+  </picture>
+</p>
 
 ---
 
@@ -53,6 +52,6 @@ CRF-based PII scrubbing → channel-aware preprocessing → BiLSTM multi-label c
 
 <p align="center">
   <img width="180" src="./suisei.gif" alt="Hoshimachi Suisei" /><br/><br/>
-  anime · Love Live aficionado · gaming · photography (real life and Forza) · self-help reading<br/><br/>
-  <em>「だって僕は星だから」— 星街すいせい, Stellar Stellar</em>
+  anime · Love Live fan · gaming · photography (real life and Forza) · self-help reading<br/><br/>
+  <em>「だって僕は星だから... Stellar Stellar」— 星街すいせい</em>
 </p>
