@@ -45,8 +45,8 @@ CRF-based PII scrubbing → channel-aware preprocessing → BiLSTM multi-label c
 ### off the clock
 
 <p align="center">
-  <img width="180" src="./suisei.gif" alt="Hoshimachi Suisei" /><br/><br/>
+  <img width="360" src="./suisei.gif" alt="Hoshimachi Suisei" /><br/><br/>
   anime · Love Live fan · gaming · photography (real life and Forza) · self-help reading<br/><br/>
   <em>「だって僕は星だから... Stellar Stellar」— 星街すいせい</em>
-</p>p></em>
+</p></em>
 </picture>
