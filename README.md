@@ -23,7 +23,7 @@ automation: ["Power Query", "VBA"]
 ### selected work
 
 **[nikko-companion](https://github.com/equinox013/nikko-companion)** — safety-aligned mental health assistant
-Multi-agent LLM pipeline (Phi-3.5-mini + Gemma-2) with deterministic crisis routing, PubMed evidence retrieval, and three LoRA fine-tuned adapters. Full-stack — React frontend, FastAPI backend, ZeroGPU inference. Near-MVP.
+Multi-agent LLM pipeline with deterministic crisis routing, PubMed evidence retrieval, and three LoRA fine-tuned adapters. Full-stack — React frontend, FastAPI backend, ZeroGPU inference. Near-MVP.
 
 **[hikari · himari · machi](https://github.com/equinox013/hikari)** — complaint driver classification pipeline
 CRF-based PII scrubbing → channel-aware preprocessing → BiLSTM multi-label classifier. Built and deployed in production at South East Water. Replaced manual triage at scale.
